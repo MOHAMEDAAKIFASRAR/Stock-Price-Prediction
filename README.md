@@ -17,16 +17,16 @@ Load and preprocess the data.
 ### Step 3:
 Create input-output sequences.
 
-### Step 2:
+### Step 4:
 Convert data to PyTorch tensors.
 
-### Step 3:
+### Step 5:
 Define the RNN model.
 
-### Step 2:
+### Step 6:
 Train the model using the training data.
 
-### Step 3:
+### Step 7:
 Evaluate the model and plot predictions.
 
 ## Program
